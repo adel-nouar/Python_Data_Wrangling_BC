@@ -2,4 +2,4 @@
 
 Python_Data_Wrangling Live BootCamp from SkillSoft
 
-Instructor: Adam
+Instructor: Adam Ross Nelson
